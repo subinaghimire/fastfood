@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fastfood/static/css/main.59faeb85.css",
-    "main.js": "/fastfood/static/js/main.8e97b667.js",
+    "main.js": "/fastfood/static/js/main.73da6931.js",
     "static/media/Banner.jpg": "/fastfood/static/media/Banner.5c444bd571989a3ed7b5.jpg",
     "index.html": "/fastfood/index.html",
     "main.59faeb85.css.map": "/fastfood/static/css/main.59faeb85.css.map",
-    "main.8e97b667.js.map": "/fastfood/static/js/main.8e97b667.js.map"
+    "main.73da6931.js.map": "/fastfood/static/js/main.73da6931.js.map"
   },
   "entrypoints": [
     "static/css/main.59faeb85.css",
-    "static/js/main.8e97b667.js"
+    "static/js/main.73da6931.js"
   ]
 }
