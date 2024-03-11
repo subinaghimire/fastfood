@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/subinaghimire/fastfood/static/css/main.c66f8ba2.css",
+    "main.js": "/subinaghimire/fastfood/static/js/main.9b8f1998.js",
+    "static/media/Banner.jpg": "/subinaghimire/fastfood/static/media/Banner.5c444bd571989a3ed7b5.jpg",
+    "index.html": "/subinaghimire/fastfood/index.html",
+    "main.c66f8ba2.css.map": "/subinaghimire/fastfood/static/css/main.c66f8ba2.css.map",
+    "main.9b8f1998.js.map": "/subinaghimire/fastfood/static/js/main.9b8f1998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66f8ba2.css",
+    "static/js/main.9b8f1998.js"
+  ]
+}
